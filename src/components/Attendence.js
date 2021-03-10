@@ -7,7 +7,7 @@ import "./Dropdown.css";
 
 
 
-const Attendence=()=>{
+const Attendance=()=>{
     
     return (<body>
         <header className="header">
@@ -15,13 +15,13 @@ const Attendence=()=>{
 
             </div>
                 <div className="goodmorning">
-                    <h1>Attendence</h1>
+                    <h1>Attendance</h1>
                 </div>
             </header>
             <article className="article">
                 <button><NavLink to="/">Home</NavLink></button>
                 <button>Notice Board</button>
-                <button >Attendence</button>
+                <button >Attendance</button>
                 <button>Fees Details</button>
                 <button>Calender</button>
                 <button>Multimedia</button>
@@ -49,4 +49,4 @@ const Attendence=()=>{
             </section>
         </body>)
     }
-    export default Attendence;
+    export default Attendance;
