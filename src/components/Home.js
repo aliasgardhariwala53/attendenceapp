@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import Attendence from "./Attendence";
+import Attendance from "./Attendence";
 import { NavLink } from "react-router-dom";
 import Calendar from 'react-calendar';
 import './Calender.css';
@@ -26,7 +26,7 @@ const Home = () => {
             <article className="article">
                 <button><NavLink to="/">Home</NavLink></button>
                 <button>Notice Board</button>
-                <button><NavLink to="/attendence">Attendence</NavLink></button>
+                <button><NavLink to="/attendance">Attendance</NavLink></button>
                 <button>Fees Details</button>
                 <button>Calender</button>
                 <button>Multimedia</button>
@@ -52,8 +52,8 @@ Activate every muscle group to get the results you’ve always wanted.  15th Mar
                 </div>
                 <div >
                     <div className="Attendence">
-                        <div><h2>Attendence</h2></div>
-                        <div>Today Overall Attendence</div>
+                        <div><h2>Attendance</h2></div>
+                        <div>Today Overall Attendance</div>
                         <div className="circle"><svg height="100" width="100">
   <circle cx="50" cy="50" r="40" stroke="red " stroke-width="10" fill="white"/>
   Sorry, your browser does not support inline SVG.  
