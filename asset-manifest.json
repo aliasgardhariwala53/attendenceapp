@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/attendenceapp/static/css/main.90c48a58.chunk.css",
+    "main.js": "/attendenceapp/static/js/main.76ba1b46.chunk.js",
+    "main.js.map": "/attendenceapp/static/js/main.76ba1b46.chunk.js.map",
+    "runtime-main.js": "/attendenceapp/static/js/runtime-main.8612d6d0.js",
+    "runtime-main.js.map": "/attendenceapp/static/js/runtime-main.8612d6d0.js.map",
+    "static/js/2.90ee619d.chunk.js": "/attendenceapp/static/js/2.90ee619d.chunk.js",
+    "static/js/2.90ee619d.chunk.js.map": "/attendenceapp/static/js/2.90ee619d.chunk.js.map",
+    "static/js/3.e9085f0b.chunk.js": "/attendenceapp/static/js/3.e9085f0b.chunk.js",
+    "static/js/3.e9085f0b.chunk.js.map": "/attendenceapp/static/js/3.e9085f0b.chunk.js.map",
+    "index.html": "/attendenceapp/index.html",
+    "static/css/main.90c48a58.chunk.css.map": "/attendenceapp/static/css/main.90c48a58.chunk.css.map",
+    "static/js/2.90ee619d.chunk.js.LICENSE.txt": "/attendenceapp/static/js/2.90ee619d.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/attendenceapp/static/media/Logo_small 1.1c84cc00.png",
+    "static/media/logo.6ce24c58.svg": "/attendenceapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8612d6d0.js",
+    "static/js/2.90ee619d.chunk.js",
+    "static/css/main.90c48a58.chunk.css",
+    "static/js/main.76ba1b46.chunk.js"
+  ]
+}
